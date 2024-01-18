@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bharat-Goswami/Mock-api.git"
+    "url": "https://github.com/sachin2398/serverdeployeelink"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bharat-Goswami/Mock-api/issues"
+    "url": "https://github.com/sachin2398/serverdeployeelink/issues"
   },
-  "homepage": "https://github.com/Bharat-Goswami/Mock-api#readme",
+  "homepage": "https://github.com/sachin2398/serverdeployeelink#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
